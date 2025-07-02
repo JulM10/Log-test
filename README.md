@@ -37,6 +37,6 @@ Este proyecto es una aplicación backend que permite generar reportes del estado
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/JulM10/Log-test
+git clone https://github.com/JulM10/Log-test.git
 cd estado-servidor
 npm install
