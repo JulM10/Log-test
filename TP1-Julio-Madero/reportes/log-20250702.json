@@ -1,0 +1,13 @@
+{
+  "reportes": [
+    {
+      "fechaHora": "2025-07-02T22:58:44.260Z",
+      "tiempoServidorActivo": "0 segundos",
+      "tiempoSistemaOperativoActivo": "32468 segundos",
+      "memoria": {
+        "memoriaTotal": "32667 MB",
+        "memoriaUsada": "20934 MB"
+      }
+    }
+  ]
+}
